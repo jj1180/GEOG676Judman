@@ -1,0 +1,41 @@
+OBJECTID,FID_Garages_Buffer,X,Y,BUFF_DIST,ORIG_FID,FID_Structures,Number,Abbrev,Private,Type,Bldg,BldgAbbr,BldgName,YearBuilt,NumFloors,Address,City,Zip,MapDisplay,Shape_Length,Shape_Area
+1,1,-96.33362,30.61373,100,1,156, ,,No,UNIVERSITY,,,,,,,,, |  | ,0.000254969,3.39076E-09
+2,1,-96.33362,30.61373,100,1,157, ,,No,UNIVERSITY,,,,,,,,, |  | ,0.000418734,1.00249E-08
+3,1,-96.33362,30.61373,100,1,316,378,SSPG,No,GARAGE,378,SSPG,South Side Parking Garage,1990,4,750 Bizzell St,College Station,77843,South Side Parking Garage | SSPG | 0378,0.005382749,1.3684E-06
+4,1,-96.33362,30.61373,100,1,323, ,,No,UNIVERSITY,,,,,,,,, |  | ,0.000258294,3.53267E-09
+5,2,-96.33777,30.6165,100,2,105,468,LIBR,No,LIBRARY,468,LIBR,Evans Library,1929,7,400 Spence St,College Station,77843,Evans Library | LIBR | 0468,0.003625868,2.90519E-07
+6,2,-96.33777,30.6165,100,2,212,357,,No,UNIVERSITY,357,,Vending Machine Booth,1999,1,408 Spence St,College Station,77843,Vending Machine Booth |  | 0357,0.000301509,5.12347E-09
+7,2,-96.33777,30.6165,100,2,428,469,CCPG,No,GARAGE,469,CCPG,Central Campus Parking Garage,1999,8,450 Spence St,College Station,77843,Central Campus Parking Garage | CCPG | 0469,0.00220915,2.62771E-07
+8,2,-96.33777,30.6165,100,2,681,470,GLAS,No,ACADEMIC,470,GLAS,Melbern G. Glasscock Building,1921,4,398 Spence St,College Station,77843,Melbern G. Glasscock Building | GLAS | 0470,0.000559177,1.51272E-08
+9,2,-96.33777,30.6165,100,2,683,472,AIEN,No,ACADEMIC,472,AIEN,AI Engineering Building,1932,6,423 Spence St,College Station,77843,AI Engineering Building | AIEN | 0472,0.001784944,7.81922E-08
+10,2,-96.33777,30.6165,100,2,688,516,CSC,No,ACADEMIC,516,CSC,Computing Services Center,1959,3,731 Lamar St,College Station,77843,Computing Services Center | CSC | 0516,0.001560127,1.30909E-07
+11,2,-96.33777,30.6165,100,2,694,471,PAV,No,ACADEMIC,471,PAV,Pavilion,1916,2,424 Spence St,College Station,77843,Pavilion | PAV | 0471,0.001803634,1.77033E-07
+12,2,-96.33777,30.6165,100,2,758,511,HLB,No,ACADEMIC,511,HLB,HEEP Laboratory Building,1957,5,645 Lamar St,College Station,77843,HEEP Laboratory Building | HLB | 0511,0.001745309,1.22633E-07
+13,2,-96.33777,30.6165,100,2,772,444,PETR,No,ACADEMIC,444,PETR,Peterson Building,1963,5,435 Nagle St,College Station,77843,Peterson Building | PETR | 0444,0.00181445,6.97067E-08
+14,2,-96.33777,30.6165,100,2,1024,275,LAAH,No,ACADEMIC,275,LAAH,Liberal Arts and Arts & Humanities Building,2012,5,399 Spence St,College Station,77843,Liberal Arts and Arts & Humanities Building | LAAH | 0275,0.000254754,2.41961E-09
+15,2,-96.33777,30.6165,100,2,1154,459,EABB,No,ACADEMIC,459,EABB,Engineering Activities Bldg B,1949,1,620 Lamar St,College Station,77843,Engineering Activities Bldg B | EABB | 0459,0.000636306,1.25603E-08
+16,2,-96.33777,30.6165,100,2,1155,460,EABA,No,ACADEMIC,460,EABA,Engineering Activities Bldg A,1954,1,646 Lamar St,College Station,77843,Engineering Activities Bldg A | EABA | 0460,0.001197177,4.46427E-08
+17,3,-96.34341,30.61924,100,3,643,524,BLOC,No,ACADEMIC,524,BLOC,Blocker Building,1981,6,155 Ireland St,College Station,77843,Blocker Building | BLOC | 0524,0.001513863,8.16999E-08
+18,3,-96.34341,30.61924,100,3,651,388,NSPG,No,GARAGE,388,NSPG,Northside Parking Garage,1989,5,104 Ireland St,College Station,77843,Northside Parking Garage | NSPG | 0388,0.00409707,9.50112E-07
+19,3,-96.34341,30.61924,100,3,652,514,MASS,No,ACADEMIC,514,MASS,Munnerlyn Astronomy & Space Sciences Engineering,1960,2,101 Asbury St,College Station,77843,Munnerlyn Astronomy & Space Sciences Engineering | MASS | 0514,0.001322987,9.38729E-08
+20,3,-96.34341,30.61924,100,3,659,496,UCO,No,OTHER,496,UCO,Utilities & Energy Services Central Office,1940,2,165 Asbury St,College Station,77843,Utilities & Energy Services Central Office | UCO | 0496,0.002128297,1.36369E-07
+21,3,-96.34341,30.61924,100,3,660,498,CUP,No,OTHER,498,CUP,Central Utility Plant,1915,3,222 Ireland St,College Station,77843,Central Utility Plant | CUP | 0498,0.000431764,1.03772E-08
+22,3,-96.34341,30.61924,100,3,951,296,MIST,No,ACADEMIC,296,MIST,Mitchell Inst for Fundamental Phys & Astronomy,2009,7,576 University Dr,College Station,77843,Mitchell Inst for Fundamental Phys & Astronomy | MIST | 0296,0.00083456,3.35868E-08
+23,4,-96.34426,30.60849,100,4,410, ,,No,UNIVERSITY,,,,,,,,, |  | ,0.000441444,1.10752E-08
+24,4,-96.34426,30.60849,100,4,416,1559,WCG,No,GARAGE,1559,WCG,West Campus Parking Garage,2003,8,201 John Kimbrough Bl,College Station,77843,West Campus Parking Garage | WCG | 1559,0.005494568,1.44337E-06
+25,4,-96.34426,30.60849,100,4,491, ,,No,UNIVERSITY,,,,,,,,, |  | ,0.000449501,1.13899E-08
+26,4,-96.34426,30.60849,100,4,495, ,,No,UNIVERSITY,,,,,,,,, |  | ,0.000449504,1.13899E-08
+27,4,-96.34426,30.60849,100,4,497, ,,No,UNIVERSITY,,,,,,,,, |  | ,0.000449512,1.13903E-08
+28,5,-96.33865,30.61205,100,5,838,384,SCCT,No,ACADEMIC,384,SCCT,Sam Houston Sanders Corps of Cadets Center,1992,1,475 Short St,College Station,77843,Sam Houston Sanders Corps of Cadets Center | SCCT | 0384,0.00090231,3.54536E-08
+29,5,-96.33865,30.61205,100,5,843,383,JJKB,No,ACADEMIC,383,JJKB,Koldus Building,1992,3,400 Joe Routt Bl,College Station,77843,Koldus Building | JJKB | 0383,0.004472977,4.76238E-07
+30,5,-96.33865,30.61205,100,5,844,379,UCPG,No,GARAGE,379,UCPG,University Center Parking Garage,1992,7,660 Throckmorton St,College Station,77843,University Center Parking Garage | UCPG | 0379,0.003961985,9.14045E-07
+31,5,-96.33865,30.61205,100,5,1135,,,No,UNIVERSITY,,,,,,,,, |  | ,0.000428911,1.03996E-08
+32,6,-96.34355,30.61149,100,6,1324,1544,CAIN,No,GARAGE,1544,,Cain Parking Garage,2016,5,500 Gene Stallings Bl,College Station,77843,Cain Parking Garage | CAIN | 1544,0.004106799,8.85041E-07
+33,6,-96.34355,30.61149,100,6,1325,,,No,GARAGE,,,,,,,,, |  | ,0.003116023,2.55775E-08
+34,6,-96.34355,30.61149,100,6,1326,,,No,GARAGE,,,,,,,,, |  | ,0.000655711,1.84415E-09
+35,6,-96.34355,30.61149,100,6,1327,,,No,GARAGE,,,,,,,,, |  | ,0.001068996,3.06825E-09
+36,6,-96.34355,30.61149,100,6,1328,,,No,GARAGE,,,,,,,,, |  | ,0.00073092,2.0252E-09
+37,6,-96.34355,30.61149,100,6,1329,,,No,GARAGE,,,,,,,,, |  | ,0.000730932,2.02517E-09
+38,6,-96.34355,30.61149,100,6,1362,1545,,No,SERVICE PVT,1545,,Cain Site Hotel,,,177 Joe Routt BL,College Station,77843,Cain Site Hotel |  | 1545,0.003472445,5.10037E-07
+39,2,-96.33777,30.6165,100,2,105,468,LIBR,No,LIBRARY,468,LIBR,Evans Library,1929,7,400 Spence St,College Station,77843,Evans Library | LIBR | 0468,0.001259203,8.59162E-08
+40,2,-96.33777,30.6165,100,2,1074,0468a,SCC,No,LIBRARY,,,,,,,,, | SCC | ,0.001259203,8.59162E-08
